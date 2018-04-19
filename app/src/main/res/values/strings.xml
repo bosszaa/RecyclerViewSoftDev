@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">RecyclerView_Avengers</string>
+    <string name="app_name">RecyclerView_Liverpool</string>
+    <string name="open_drawer" />
+    <string name="close_drawer" />
 </resources>
