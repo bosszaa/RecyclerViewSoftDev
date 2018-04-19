@@ -8,12 +8,10 @@
         <menu>
             <item
                 android:id="@+id/mnuNew"
-                android:icon="@mipmap/logo"
                 android:title="Profile" />
             <item
                 android:id="@+id/mnuOpen"
-                android:icon="@mipmap/ucl"
-                android:title="UEFA Champions League" />
+                android:title="Joox" />
         </menu>
     </item>
 
